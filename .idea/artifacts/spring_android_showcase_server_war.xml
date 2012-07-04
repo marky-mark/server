@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spring-android-showcase-server:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="spring-android-showcase-server-1.0.0-BUILD-SNAPSHOT.war">
-      <element id="artifact" artifact-name="spring-android-showcase-server:war exploded" />
-    </root>
-  </artifact>
-</component>
